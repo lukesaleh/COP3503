@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\lukes\Desktop\Work\UF 2020-2021\COP3503\Project2\Project2\src\main.cpp(146,43): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\lukes\Desktop\Work\UF 2020-2021\COP3503\Project2\Project2\src\main.cpp(146,38): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\lukes\Desktop\Work\UF 2020-2021\COP3503\Project2\Project2\src\main.cpp(146,33): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\lukes\Desktop\Work\UF 2020-2021\COP3503\Project2\Project2\src\main.cpp(147,49): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\lukes\Desktop\Work\UF 2020-2021\COP3503\Project2\Project2\src\main.cpp(147,42): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\lukes\Desktop\Work\UF 2020-2021\COP3503\Project2\Project2\src\main.cpp(147,35): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\lukes\Desktop\Work\UF 2020-2021\COP3503\Project2\Project2\src\main.cpp(148,46): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\lukes\Desktop\Work\UF 2020-2021\COP3503\Project2\Project2\src\main.cpp(148,40): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\lukes\Desktop\Work\UF 2020-2021\COP3503\Project2\Project2\src\main.cpp(148,34): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\lukes\Desktop\Work\UF 2020-2021\COP3503\Project2\Project2\src\main.cpp(187,44): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\lukes\Desktop\Work\UF 2020-2021\COP3503\Project2\Project2\src\main.cpp(187,37): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\lukes\Desktop\Work\UF 2020-2021\COP3503\Project2\Project2\src\main.cpp(187,31): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\lukes\Desktop\Work\UF 2020-2021\COP3503\Project2\Project2\src\main.cpp(473,16): warning C4101: 'greenChar': unreferenced local variable
+C:\Users\lukes\Desktop\Work\UF 2020-2021\COP3503\Project2\Project2\src\main.cpp(474,16): warning C4101: 'blueChar': unreferenced local variable
+C:\Users\lukes\Desktop\Work\UF 2020-2021\COP3503\Project2\Project2\src\main.cpp(472,16): warning C4101: 'redChar': unreferenced local variable
+  Project2.vcxproj -> C:\Users\lukes\Desktop\Work\UF 2020-2021\COP3503\Project2\Debug\Project2.exe
